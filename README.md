@@ -6,7 +6,7 @@ programmer in c++.
 ~~~
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinramirezz1&hide=javascript,html)](https://github.com/kevinramirezz1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinramirezz1&hide=javascript,html)](https://github.com/kevinramirezz1/permutaciones-combinaciones)
 
 #
 <div>
