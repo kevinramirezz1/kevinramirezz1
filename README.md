@@ -1,7 +1,7 @@
 ### !Hello there! I am Kevin Ramirezz
 
 ~~~C++
-programmer in c++.
+programmer in C++.
 programer in Java
 **beginner
 ~~~
