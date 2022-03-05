@@ -1,9 +1,9 @@
 ### !Hello there! I am Kevin Ramirezz
 
+&hearts;
+
 ~~~C++
-programmer in C++.
-programer in Java
-**beginner
+Bienvendio 
 ~~~
 
 
