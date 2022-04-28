@@ -17,9 +17,11 @@
 ###### 📲 Social
 <h4> <a href="https://www.instagram.com/kevinramirezz_code/">Instagram</a> • <a href="https://twitter.com/kkevinramirezz1">Twitter</a> • <a href="https://www.behance.net/kevinramirezdesigner">Behance</a></h4>
   
- </div>
+ </div> 
  
+ <div align="center">
 ![snake gif](https://github.com/kevinramirezz1/kevinramirezz1/blob/output/github-contribution-grid-snake.gif)
+ </div>
 
 
 <div align="center"> Hecho con &hearts; por Kevin Ramirezz </div>
