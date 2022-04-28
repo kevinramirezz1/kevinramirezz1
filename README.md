@@ -1,3 +1,7 @@
+
+![gif-2](https://user-images.githubusercontent.com/76236808/165783194-0341959d-459e-409c-97b4-85965e2ed013.gif)
+
+
 <div align="center">¡Hola! 👋 
 
 <h6>Soy Kevin Ramirezz, Estudiante de Ingeniería y Diseñador Gráfico, puedes ver algunos proyectos de Diseño en mi <a href=https://www.behance.net/kevinramirezdesigner>Behance</a>.<br>
