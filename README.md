@@ -1,5 +1,5 @@
 
-![gif-2](https://user-images.githubusercontent.com/76236808/165783194-0341959d-459e-409c-97b4-85965e2ed013.gif)
+
 
 
 <div align="center">¡Hola! 👋 
