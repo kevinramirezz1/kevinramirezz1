@@ -4,7 +4,7 @@
 
 <div align="center">¡Hola! 👋 
 
-<h6>Soy Kevin Ramirezz, Estudiante de Ingeniería y Diseñador Gráfico, puedes ver algunos proyectos de Diseño en mi <a href=https://www.behance.net/kevinramirezdesigner>Behance</a>.<br>
+<h6>Soy Kevin Ramirezz, Estudiante de Ingeniería<br>
   📚Aprendiendo nuevas tecnologías de la programación.
  </h6> 
  
